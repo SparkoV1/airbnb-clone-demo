@@ -16,6 +16,8 @@
 /build
 
 # misc
+.idea
+yarn.lock
 .DS_Store
 *.pem
 
