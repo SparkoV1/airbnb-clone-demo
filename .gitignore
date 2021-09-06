@@ -14,10 +14,11 @@
 
 # production
 /build
-.idea
-yarn.lock
+
 
 # misc
+.idea
+yarn.lock
 .DS_Store
 *.pem
 
